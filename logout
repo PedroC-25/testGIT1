@@ -1,0 +1,56 @@
+[33mcommit 67a8845e0daf1f00f3adcb648134e8b00721c016[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Pedro Costa <pedro.costa@pt.softinsa.com>
+Date:   Thu Nov 17 16:44:13 2022 +0000
+
+    changed margin, max-width and line-height within layoutfixed.css, inside the master branch
+
+[33mcommit 9fd16d99db7ca7b7b2e8796f4c74bd8d4066597e[m[33m ([m[1;32mconflict-branch[m[33m)[m
+Author: Pedro Costa <pedro.costa@pt.softinsa.com>
+Date:   Thu Nov 17 16:40:35 2022 +0000
+
+    changed margin and max-width within layoutfixed.css inside the master branch
+
+[33mcommit 0fb0af0eb8f21856cb1e608935fa9a0821bd98fc[m
+Merge: 7f6886a e319695
+Author: Pedro Costa <pedro.costa@pt.softinsa.com>
+Date:   Thu Nov 17 16:35:21 2022 +0000
+
+    Merge branch 'indexchanges'
+
+[33mcommit 7f6886afee75e1654c05994f9c0f00b607726282[m[33m ([m[1;32mcsschanges[m[33m)[m
+Author: Pedro Costa <pedro.costa@pt.softinsa.com>
+Date:   Thu Nov 17 16:23:49 2022 +0000
+
+    added a fixed index.html and a fixed style .css to meet the requirements, inside a second isolated branch, not in the master one. PedroC
+
+[33mcommit e3196956c67f453cea87ee9f7ba5d634b9f39eb9[m[33m ([m[1;32mindexchanges[m[33m)[m
+Author: Pedro Costa <pedro.costa@pt.softinsa.com>
+Date:   Thu Nov 17 16:06:31 2022 +0000
+
+    added a fixed index.html to meet the requirements, inside one of the branches, not in the master one. PedroC
+
+[33mcommit 7baacbd6dc1aabe15b030a90104628b5b7cb6389[m
+Author: Pedro Costa <pedro.costa@pt.softinsa.com>
+Date:   Thu Nov 17 15:57:32 2022 +0000
+
+    added a fixed index.html to meet the requirements, inside one of the branches, not in the master one. PedroC
+
+[33mcommit df878f9144244dff88bcd1df8a308e6b588d7806[m
+Author: Pedro Costa <pedro.costa@pt.softinsa.com>
+Date:   Thu Nov 17 15:28:15 2022 +0000
+
+    Revert "fixed layout and text in H2 in index1.html and layout1.css"
+    
+    This reverts commit 6e1686cb73e1f30cf8380acb8ae39656926ef998.
+
+[33mcommit 6e1686cb73e1f30cf8380acb8ae39656926ef998[m
+Author: Pedro Costa <pedro.costa@pt.softinsa.com>
+Date:   Thu Nov 17 15:07:31 2022 +0000
+
+    fixed layout and text in H2 in index1.html and layout1.css
+
+[33mcommit 95da0568e07f9af8a0314c6875f3755adfdcb917[m
+Author: Pedro Costa <pedro.costa@pt.softinsa.com>
+Date:   Thu Nov 17 15:02:26 2022 +0000
+
+    fixed color of H1 in index.html
